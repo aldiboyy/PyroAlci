@@ -18,7 +18,7 @@ from WhyzuProject.helpers.misc import heroku
 from WhyzuProject.modules import ALL_MODULES
 
 MSG_ON = """
-🔥 **Whyzu-Userbot Berhasil Di Aktifkan**
+🔥 **Alci-Userbot Berhasil Di Aktifkan**
 ━━
 ➠ **Userbot Version -** `{}`
 ➠ **Ketik** `{}alive` **untuk Mengecheck Bot**
@@ -33,8 +33,8 @@ async def main():
         try:
             await bot.start()
             bot.me = await bot.get_me()
-            await bot.join_chat("WhyzuCH")
-            await bot.join_chat("WhyzuRoom")
+            await bot.join_chat("soasiklo69")
+            await bot.join_chat("alxelsupport")
             await bot.send_message(BOTLOG_CHATID, MSG_ON.format(BOT_VER, CMD_HANDLER))
             LOGGER("WhyzuProject").info(
                 f"Logged in as {bot.me.first_name} | [ {bot.me.id} ]"
