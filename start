@@ -1,12 +1,12 @@
 #!/bin/bash
 # Credits: @mrismanaziz
-# Copyright (C) 2022 Whyzu
+# Copyright (C) 2022 Alci
 #
-# This file is a part of < https://github.com/itsmewhy/Whyzu-Userbot/ >
+# This file is a part of < https://github.com/aldiboyy/Alci-Userbot
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/itsmewhy/Whyzu-Userbot/blob/main/LICENSE/>.
+# <https://www.github.com/aldiboyy/Alci-Userbot/blob/main/LICENSE/>.
 #
 # t.me/WhyzuNotSupport & t.me/WhyzuCH
 
 # start
-python3 -m WhyzuProject
+python3 -m AlciProject
