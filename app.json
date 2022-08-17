@@ -1,6 +1,6 @@
 {
-  "name": "Whyzu-Userbot",
-  "description": "[Whyzu-Userbot] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.",
+  "name": "𝙰𝚕𝚌𝚒-𝚄𝚜𝚎𝚛𝚋𝚘𝚝",
+  "description": "[𝙰𝚕𝚌𝚒-𝚄𝚜𝚎𝚛𝚋𝚘𝚝] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.",
   "stack": "heroku-22",
   "env": {
     "API_ID": {
@@ -12,7 +12,7 @@
       "required": true
     },
     "STRING_SESSION1": {
-      "description": "Dapatkan String Session Pyrogram di Grup » https://t.me/WhyzuRoom » Lalu ketik #string",
+      "description": "Dapatkan String Session Pyrogram di Grup » https://t.me/alxelsupport » Lalu ketik #string",
       "required": true
     },
     "BOTLOG_CHATID": {
