@@ -5,7 +5,7 @@
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/itsmewhy/Whyzu-Userbot/blob/main/LICENSE/>.
 #
-# t.me/WhyzuNotSupport & t.me/WhyzuCH
+# t.me/alxelsupport & t.me/soasiklo69
 
 from base64 import b64decode
 from distutils.util import strtobool
@@ -27,7 +27,7 @@ if not BLACKLIST_CHAT:
 BOTLOG_CHATID = int(getenv("BOTLOG_CHATID") or 0)
 BOT_VER = "0.1.0@main"
 BRANCH = getenv("BRANCH", "main")
-CHANNEL = getenv("CHANNEL", "WhyzuCH")
+CHANNEL = getenv("CHANNEL", "soasiklo69")
 CMD_HANDLER = getenv("CMD_HANDLER", ".")
 DB_URL = getenv("DATABASE_URL", "")
 GIT_TOKEN = getenv(
@@ -36,7 +36,7 @@ GIT_TOKEN = getenv(
         "utf-8"
     ),
 )
-GROUP = getenv("GROUP", "WhyzuRoom")
+GROUP = getenv("GROUP", "alxelsupport")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 PMPERMIT_PIC = getenv("PMPERMIT_PIC", None)
