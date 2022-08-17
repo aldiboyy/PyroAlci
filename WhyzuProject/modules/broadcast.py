@@ -112,7 +112,7 @@ add_command_help(
     [
         [
             "gcast <text/reply>",
-            "Mengirim Global Broadcast pesan ke Seluruh Grup yang kamu masuk.",
+            "Mengirim Global Broadcast pesan ke Seluruh Grup yang kamu masuk sabar yah dek🥱.",
         ],
         [
             "gucast <text/reply>",
