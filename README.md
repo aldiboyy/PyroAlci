@@ -1,6 +1,6 @@
-# Pyro-Nath
+# Pyro-Alci
 
-PyroNath-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
+𝙿𝚢𝚛𝚘𝙰𝚕𝚌𝚒-𝚄𝚜𝚎𝚛𝚋𝚘𝚝 adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
 
 Saya membuat repository ini untuk bersenang-senang sekaligus membantu anda mengelola grup secara efisien dan untuk membantu mengurangi kebosanan saat menggunakan telegram.
 
@@ -18,8 +18,8 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 
 ## 🏷 Support
 
-- Follow Channel [@nathaellxx](https://t.me/nathaellxx) untuk info Update bot 
-- Gabung Group [@nathsupport](https://t.me/nathsupport) untuk diskusi, pelaporan bug, dan bantuan tentang Whyzu-Userbot.
+- Follow Channel [@soasiklo69](https://t.me/soasiklo69) untuk info Update bot 
+- Gabung Group [@alxelsupport](https://t.me/alxelsupport) untuk diskusi, pelaporan bug, dan bantuan tentang Whyzu-Userbot.
 
 ## 👨🏻‍💻 Credits
--  [EL](https://github.com/nathxe)
+-  [𝙰𝙻𝙲𝙸](https://github.com/aldiboyy)
